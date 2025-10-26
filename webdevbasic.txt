@@ -1,0 +1,71 @@
+<h1>Hello</h1> this complete statement is element
+Tags and elements
+anything inside anglet brackets is tag
+h1 - h6
+opening tag and closing tag 
+<h1> opening tag </h1> closing tag
+h1 is biggest and h6 is the smallest
+<p>this is paragraph</p> - paragraph element
+for paragraphs
+lipsum.com
+broipsum.com
+html void elements <hr /> and <br /> having void inside before forward slash
+horizontal rule and break element
+diffchecker.com
+
+<ul>
+<li>Milk</li>
+<li>Eggs</li>
+</ul> unordered list contains list items. it uses
+bullets, and to order the list we use <ol></ol>
+ordered list.
+
+nesting means list inside a list
+anchoring tags <a></a> to add a link and its attribute goes in the opening tag
+for eg - <a href="http://www.google.com">This is the link</a>
+<tag attribute=value>Content</tag>
+to start the list from paritcular number we use 
+start attribute. <ol start="101"></ol>
+
+<img src="url" alt="image description"/> image element with image tag
+https://picsum.photos/200 alt="Forest at sunset
+alt attribute stands for alternate text description
+
+
+file path
+root is starting point of file path in computer 
+or we can say it is harddrive that stores the file.
+relative and absolute
+
+absolute path - relative to the root of the computer
+c:/project/images/cat.png --it is the complete address of file
+
+relative path - more used in web development.
+relative to the location not the complete path starting from root.
+
+travel from folder to folder
+
+special character used in relative file path
+double dot .. - it will point one folder above/
+../essay.docx
+single dot . - points current directory
+./dog.png- dot slash notation
+
+for adding image as a link
+<a href="url"><img src="url" alt="description" /></a>
+
+html boilerplate - how html pages are structured.
+<!DOCTYPE html> it tells the brower which version of html
+file is - and confirms we're writing code in 
+Html version 5
+starting with html tag
+<html lang="en"> - language of the text content
+<head>
+<meta charset="UTF-8">
+<title>name of the website</title>
+</head>
+<body>
+<h1>Hello World</h1>
+everything will be inside the these tag which will be scene on website
+</body>
+</html> closing tag
