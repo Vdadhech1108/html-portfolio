@@ -82,4 +82,5 @@ example =    <style> h1,h2,footer{
             background: burlywood
         }</style>
 and these mentioned tags are called Selectors. here selectors are h1, h2 and footer
-Internal css can be applied anywhere in Html document.
+Internal css can be applied anywhere in Html document and it is limited to one html document only.
+
