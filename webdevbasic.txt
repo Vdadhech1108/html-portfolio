@@ -79,8 +79,17 @@ External css uses refering link to the CSS file <link href="style.css" />
 
 Internal tags are used inside the style tags and elements which are needed to be styled are mentioned.
 example =    <style> h1,h2,footer{
-            background: burlywood
+            background: burlywood;
         }</style>
 and these mentioned tags are called Selectors. here selectors are h1, h2 and footer
 Internal css can be applied anywhere in Html document and it is limited to one html document only.
 
+in external css, external css file needed with extension style.css and a refering link.
+for example -
+inside the head element-
+<head>
+<link rel="stylesheet"
+      href="./style.css" />
+</head>
+where rel is relationship.
+href means where the file located.
