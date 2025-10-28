@@ -69,3 +69,17 @@ starting with html tag
 everything will be inside the these tag which will be scene on website
 </body>
 </html> closing tag
+
+THERE ARE 3 TYPES OF Cascading style sheet
+Inline, Internal and External CSS
+
+Inline is used inside the opening tag of the element. used to style particular elements. and can be used anywhere in html document.
+Internal css have opening and closing styling tags - <style></style>
+External css uses refering link to the CSS file <link href="style.css" />
+
+Internal tags are used inside the style tags and elements which are needed to be styled are mentioned.
+example =    <style> h1,h2,footer{
+            background: burlywood
+        }</style>
+and these mentioned tags are called Selectors. here selectors are h1, h2 and footer
+Internal css can be applied anywhere in Html document.
