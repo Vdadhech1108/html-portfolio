@@ -98,3 +98,14 @@ class selector = starts with .red-heading -- class is an attribute. mainly used 
 for example = <h1 class="red-text"> heading 2 </h1>
 <p class="red-text">Paragraph</p>
 and in style.css -- .red-text{color:red; }
+it is used multipage website with lots of different elements.
+id selector: 
+syntax = #main{color:red} where pound sign is used.
+it is used to apply to the element having that id attribute in it.
+for example - <h2 id="main">Red</h2>
+<h2>Green</h2>
+<h2>Black</h2>
+
+css -  #main{color: red;}
+it will the text red in only in element having id main.
+
