@@ -109,3 +109,6 @@ for example - <h2 id="main">Red</h2>
 css -  #main{color: red;}
 it will the text red in only in element having id main.
 
+class selector is applied to many elements but id selector is applied to a particular element or one element, there will be one id of paricular name.
+id are unique, only one element per file.
+
