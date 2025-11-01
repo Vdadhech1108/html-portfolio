@@ -125,4 +125,12 @@ universal selector:
 its going to select all the element and turn them into red doesn't matter what id, class, draggable attribute is provided.
 it will be provided where the style sheet is active.
 
+for color patterns
+https://colorhunt.co/
+
+to convert decimal color code to hexadecimal color code
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
+for color naming
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
