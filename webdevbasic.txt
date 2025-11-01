@@ -112,3 +112,17 @@ it will the text red in only in element having id main.
 class selector is applied to many elements but id selector is applied to a particular element or one element, there will be one id of paricular name.
 id are unique, only one element per file.
 
+attribute selector
+p[draggable]{ color: red;}
+its going to select all p elements with draggable attribute.
+<p draggable="true">Drag me</p>
+<p draggable="false">Don't Drag me</p>
+<p draggable="false">Don't Drag me</p>
+
+universal selector:
+* is the universal selector.
+*{ color:red;}
+its going to select all the element and turn them into red doesn't matter what id, class, draggable attribute is provided.
+it will be provided where the style sheet is active.
+
+
