@@ -134,3 +134,16 @@ https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 for color naming
 https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
+1 px is about 1/96th of inch. so it will be about .26mm wide and tall.
+1 pt is about 1/72th of inch. so it will be about .35mm wide and tall.
+1 em means 100% of whatever the size we decided of the body our element will be equivalent to that size 
+for eg if we say - body is 20 px and we have 1 em in h1 then h1 will be same as body and if we take 2em then 
+h1 will be 2 times of body. it is relative size.
+
+1 rem means 100% of whatever the size of html element. it is the relative to the root element size.
+
+font-size, font-family
+font.google.com
+https://fonts.google.com/specimen/Architects+Daughter
+
+
